@@ -23,6 +23,8 @@ Step 3: Here's the screenshot of my output before i started data cleaning (see s
 
 Step 4: Here's the screenshot of my output after i started data cleaning (see screenshot)
 
-
+![Image](https://github.com/user-attachments/assets/2ab5277b-00a5-4d85-8b64-68bad0b19e9e)
 
 Here's the physical data model
+
+![Image](https://github.com/user-attachments/assets/105f7e3d-6e12-4af5-b09f-66e0428a5105)
