@@ -18,7 +18,7 @@ Step 2:
 
 Step 3: Here's the screenshot of my output before i started data cleaning (see screenshot)
 
-![images/before.png]()
+![Image](https://github.com/user-attachments/assets/3cf0a6c8-9a9e-4396-a111-14d8be6af0f2)
 
 
 Step 4: Here's the screenshot of my output after i started data cleaning (see screenshot)
