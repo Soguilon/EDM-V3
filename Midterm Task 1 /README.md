@@ -17,8 +17,7 @@ Step 2:
 
 
 Step 3: Here's the screenshot of my output before i started data cleaning (see screenshot)
-
-![Uploading before.png]{}
+https://github.com/Soguilon/EDM-V3/blob/main/images/before.png
 
 
 Step 4: Here's the screenshot of my output after i started data cleaning (see screenshot)
