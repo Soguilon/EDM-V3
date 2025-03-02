@@ -8,7 +8,7 @@ Step 1:
 - TRIM words and spaces
 - Remove Null values
 - Remove Duplicates
-![Image](https://github.com/user-attachments/assets/d4357f3f-2b66-42bb-8b54-8bccd5e02561)
+
 Step 2:
 - Performed 1NF
 - Perform Tablet spilt using 2NF
