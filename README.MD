@@ -1,4 +1,4 @@
-# EDM-V3
+# EDM-Portfolio
 This portfolio documents the step-by-step process and screenshots of the tasks completed in the subject EDM.
 
 ## About me:
