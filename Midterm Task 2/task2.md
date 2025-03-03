@@ -1,7 +1,7 @@
 ## Midterm Lab Task 2
 This portfolio demonstrates the process of data cleaning and preparation using Power Query. The dataset consists of multiple related tables, where cleaning techniques are applied to improve data quality and consistency before analysis.
 
-##Step-by-Step Process
+## Step-by-Step Process
 Step 1: Data Cleaning
 - Load the raw dataset into Power Query
 - Adjust column width and format
