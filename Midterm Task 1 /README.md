@@ -16,12 +16,12 @@ Step 2:
 - Mapped the normalization as a physical data model
 
 
-Step 3: Here's the screenshot of my output before i started data cleaning (see screenshot)
+Step 3: Here's the screenshot of my output before I started data cleaning (see screenshot)
 
 ![raw](https://github.com/user-attachments/assets/e0375d56-cc93-4908-9492-90f4aa3642d7)
 
 
-Step 4: Here's the screenshot of my output after i started data cleaning (see screenshot)
+Step 4: Here's the screenshot of my output after I started data cleaning (see screenshot)
 
 ![Image](https://github.com/user-attachments/assets/9daf38c7-759e-48ee-8403-af19cdfa2af1)
 
