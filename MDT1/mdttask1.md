@@ -1,20 +1,29 @@
 ## Raw
-![Image](https://github.com/user-attachments/assets/7ee6c9b8-0434-45e4-9cfa-a7e0b60472cf)
+![raw](https://github.com/user-attachments/assets/e0375d56-cc93-4908-9492-90f4aa3642d7)
+
 ## Cleaned
-![Image](https://github.com/user-attachments/assets/84466199-8b95-4ccd-9b1e-22f80632357f)
+![cleaned](https://github.com/user-attachments/assets/20272c91-2fa1-4f53-818f-df928132336e)
+
 ## Normalized
-![Image](https://github.com/user-attachments/assets/c1b7c95c-b76b-4db8-8e97-3f05cbcafc03)
+![normalization](https://github.com/user-attachments/assets/81da03ef-d939-4298-83cb-a7ca50712e66)
+
 ## Customer
-![Image](https://github.com/user-attachments/assets/1cb0b47f-e0a8-4212-9038-18bcf897b437)
+![Customers](https://github.com/user-attachments/assets/9f806c7f-1c31-406e-8ce0-05ae62d797ab)
+
 ## Product
-![Image](https://github.com/user-attachments/assets/1ee81834-575d-42d9-86bf-9eb314a979cf)
+![Product](https://github.com/user-attachments/assets/08f50d59-47d9-4825-8818-06a777947e0d)
+
 ## Region
-![Image](https://github.com/user-attachments/assets/d381f637-d5ce-4a5b-a4ee-a05954bea520)
+![Region](https://github.com/user-attachments/assets/e606ea8c-2104-4d35-9ff7-140ce9f04917)
+
 ## Rating
-![Image](https://github.com/user-attachments/assets/8c0a432a-8e5d-49d3-b816-afde250d9fb1)
+![Rating](https://github.com/user-attachments/assets/07997df1-2f38-45c8-adea-854753aa33f7)
+
 ## Transaction
-![Image](https://github.com/user-attachments/assets/6dc4b153-8b09-4a08-93ca-c827807bdf14)
+![Transaction](https://github.com/user-attachments/assets/86a1f692-1989-4b97-bd14-103e7960202f)
+
 ## SaleItem
-![Image](https://github.com/user-attachments/assets/f4d00f26-d263-48d2-a68e-a8ded52ce11a)
+![SaleItems](https://github.com/user-attachments/assets/15ca3759-71a1-498a-84d2-e1bab64621fe)
+
 ## ERD
-![Image](https://github.com/user-attachments/assets/a0387580-0987-4ad3-bd38-a613d61a65cd)
+![EDRM](https://github.com/user-attachments/assets/4443e53d-82e6-4573-a755-45582a64bf3c)
