@@ -1,5 +1,5 @@
 ## Midterm Lab Task 1
-This portfolio demonstrates the process of [data normalization and cleaning](Midterm%20Task%201%20/1task.md) applied to a transactional database. The dataset consists of multiple related tables, each designed to improve data organization and eliminate redundancy.
+This portfolio demonstrates the process of [data normalization and cleaning](Excel/excel1.md) applied to a transactional database. The dataset consists of multiple related tables, each designed to improve data organization and eliminate redundancy.
 
 ## Step by Step Process
 Step 1:
