@@ -4,7 +4,7 @@ This [portfolio](https://github.com/Soguilon/EDM-V3/blob/ff801c8db9c605937c606d9
 ## Step by Step Process
 Step 1:
 - Load the raw file
-- Fix collumns width and height
+- Fix columns width and height
 - TRIM words and spaces
 - Remove Null values
 - Remove Duplicates
