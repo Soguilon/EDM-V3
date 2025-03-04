@@ -11,7 +11,7 @@ Step 1:
 
 Step 2:
 - Performed 1NF
-- Perform Tablet spilt using 2NF
+- Perform Table spilt using 2NF
 - Performed 2NF
 - Mapped the normalization as a physical data model
 
