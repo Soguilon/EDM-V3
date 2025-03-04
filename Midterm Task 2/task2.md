@@ -25,14 +25,14 @@ Step 3: Data Normalization
 
 ## Here are the screenshots showcasing the table transformation process
 
-1st 
+
 ![Image](https://github.com/user-attachments/assets/50d00f73-daca-4078-b6f7-53719ed5f4e6)
 
-2nd
+
 ![Image](https://github.com/user-attachments/assets/247f0983-bc74-4af6-a8a8-ca09b79aedbe)
 
-3rd
+
 ![Image](https://github.com/user-attachments/assets/ffcd6b55-94dd-459f-9a0b-b76d5b831222)
 
-4th
+
 ![Image](https://github.com/user-attachments/assets/9c88de86-5cb3-4176-a2cd-1ecf9769d864)
