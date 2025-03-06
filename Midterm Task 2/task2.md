@@ -106,10 +106,10 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 2. Check if all queries are correctly linked  
 
 ## Here are the screenshots showcasing the table transformation process
-### Before
+### Here's the screenshot of my output before I started data cleaning (see screenshot)
 ![Image](https://github.com/user-attachments/assets/38ea140c-bb3b-44c1-b2cb-a25601ea8467)
 
-### After
+### Here's the screenshot of my output after I started data cleaning (see screenshot)
 ![Image](https://github.com/user-attachments/assets/dd368a40-ad15-4159-a5dd-3ab372efe33d)
 
 ### Dependencies
