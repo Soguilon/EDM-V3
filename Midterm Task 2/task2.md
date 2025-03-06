@@ -112,6 +112,6 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ### Here's the screenshot of my output after I started data cleaning (see screenshot)
 ![Image](https://github.com/user-attachments/assets/dd368a40-ad15-4159-a5dd-3ab372efe33d)
 
-### Here's the screenshot of the Dependencies
+### Here's the screenshot of the Query Dependencies
 ![Image](https://github.com/user-attachments/assets/e964092b-b535-4357-86aa-13795196b172)
 
