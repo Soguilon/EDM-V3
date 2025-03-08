@@ -112,6 +112,15 @@ This portfolio demonstrates the process of data cleaning and preparation using P
 ### Here's the screenshot of my output after I started data cleaning (see screenshot)
 ![Image](https://github.com/user-attachments/assets/dd368a40-ad15-4159-a5dd-3ab372efe33d)
 
+
+### Here's the screenshot of Sal By Role type (see screenshot)
+![Image](https://github.com/user-attachments/assets/4a2b5298-8a0b-4440-8e83-de4f0810d89d)
+### Here's the screenshot of Sal By Role Size (see screenshot)
+![Image](https://github.com/user-attachments/assets/f193001b-6da3-46fa-aa36-877f20cefc81)
+### Here's the screenshot of Sal By State (see screenshot)
+![Image](https://github.com/user-attachments/assets/d6e69440-32be-4cbf-af2c-5d8a99dfdcbc)
+### Here's the screenshot of States (see screenshot)
+![Image](https://github.com/user-attachments/assets/8c402690-1e7a-4253-899d-e0f74b6e302a)
 ### Here's the screenshot of the Query Dependencies
 ![Image](https://github.com/user-attachments/assets/e964092b-b535-4357-86aa-13795196b172)
 
